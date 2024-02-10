@@ -1,0 +1,17 @@
+#Other data (total # of treatment and control units, covariates set)
+
+param T2:=536;
+param T1:=464;
+
+set C1:=  HighBP	BMI	Age	PhysActivity;
+
+
+#param n:=30;
+
+
+
+
+
+
+
+
