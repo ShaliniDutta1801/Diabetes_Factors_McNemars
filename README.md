@@ -1,0 +1,5 @@
+Recently, more people have been diagnosed with diabetes, and it's become a significant health concern. To figure out why this is happening, our study explores the factors that could be linked to diabetes in individuals. We're looking into things like smoking, high blood pressure, high cholesterol, eaIng habits, physical acIvity, fruit intake, age, BMI (Body Mass Index) etc.
+By closely examining these factors, we aim to understand why there's an increase in diabetes cases. Our goal is to uncover how these elements interact and contribute to more people developing diabetes. This insight will help us come up with pracIcal ideas to create targeted plans for prevenIng and managing diabetes.
+The main purpose of our study is to contribute to finding effecIve ways to prevent and address diabetes. We hope that by gaining more knowledge about what causes diabetes, we can improve the overall health of the public. UlImately, the informaIon from our study may lead to be*er strategies for addressing the growing issue of diabetes in our communiIes.
+
+We will be employing McNemar's test to determine the influence of these factors on Diabetes.
